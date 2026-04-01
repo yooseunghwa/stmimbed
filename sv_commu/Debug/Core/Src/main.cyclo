@@ -1,0 +1,12 @@
+../Core/Src/main.c:79:20:dhcp_state_name	12
+../Core/Src/main.c:97:13:print_net_status	1
+../Core/Src/main.c:108:13:print_dhcp_status	3
+../Core/Src/main.c:117:12:dhcp_start_and_wait	4
+../Core/Src/main.c:144:5:_write	1
+../Core/Src/main.c:156:5:main	1
+../Core/Src/main.c:240:6:SystemClock_Config	4
+../Core/Src/main.c:293:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:326:13:MX_GPIO_Init	1
+../Core/Src/main.c:354:6:StartDefaultTask	1
+../Core/Src/main.c:387:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:405:6:Error_Handler	1
